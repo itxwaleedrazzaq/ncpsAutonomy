@@ -1,0 +1,12 @@
+tensorflow==2.9.0
+stable_baselines3==1.5.1a8
+keras-ncp
+matplotlib
+pandas
+seaborn
+opencv-python
+opencv_contrib-python
+pickle
+jupyter
+gym==0.24.0
+
